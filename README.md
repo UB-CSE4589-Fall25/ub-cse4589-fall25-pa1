@@ -38,7 +38,7 @@ Your repository follows the structure outlined below:
 To assist you with the assignment, please refer to the following resources:
 
 - **Assignment Handout:** [Link](https://docs.google.com/document/d/184DnVFBqZ1siLA_H5KsFBbI3oOa0Trhv0JPWN97Wjm0/edit?usp=sharing)
-- **Assignment Template:** [Link](https://docs.google.com/document/d/1GibGutfnvbqd0Lvt9HXhZ6sHC3oWjnwjVIIfkD6iy7o/edit?usp=sharing)
+- **Assignment Template:** [Link](https://docs.google.com/document/d/1_P_xTPFdgrUYT_EuH6rTsy0YEqgaCghptbis7GxVyaE/edit?usp=sharing)
 - **Assignment Report Template:** [Link](https://docs.google.com/document/d/16XV-6gFnkXeXoumIAj4kjlw10dBsxqKe-A-3N9v0MFY/edit?usp=sharing)
 
 Please ensure you read through the handout thoroughly before starting the assignment to understand the requirements and deliverables.
