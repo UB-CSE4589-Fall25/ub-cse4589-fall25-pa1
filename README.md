@@ -8,58 +8,11 @@ The main goal is to develop a text chat application comprising one chat server a
 
 ## Getting Started
 
-You have the option to complete this assignment in either C, C++ or Python. To select your language of choice, execute the following command in your terminal. This will merge the chosen language branch into the main branch of your repository.
-
-For C:
-
-```
-cd <path_to_your_local_repo>
-git fetch --all
-git merge origin/c -m "lang option: c" --no-ff && git push origin main
-```
-
-For C++:
-
-```
-cd <path_to_your_local_repo>
-git fetch --all
-git merge origin/cpp -m "lang option: cpp" --no-ff && git push origin main
-```
-
-For Python:
-
-```
-cd <path_to_your_local_repo>
-git fetch --all
-git merge origin/python -m "lang option: python" --no-ff && git push origin main
-```
+This assignment is to be completed in **C++**. The repository contains all the necessary starter code and files you need to begin development.
 
 ## Directory Structure
 
-After merging the chosen branch, your directory should follow the structure outlined below:
-
-### For C:
-
-```
-.
-├── README.md
-├── assignment1_package.sh
-├── grader
-│   ├── grader.cfg
-│   └── grader_controller
-└── pa1
-    ├── Makefile
-    ├── include
-    │   ├── global.h
-    │   └── logger.h
-    ├── logs
-    ├── object
-    └── src
-        ├── assignment1.c
-        └── logger.c
-```
-
-### For C++:
+Your repository follows the structure outlined below:
 
 ```
 .
@@ -80,21 +33,6 @@ After merging the chosen branch, your directory should follow the structure outl
         └── logger.cpp
 ```
 
-### For Python:
-
-```
-.
-├── README.md
-├── assignment1_package_py.sh
-├── grader
-│   ├── grader.cfg
-│   └── grader_controller
-└── pa1
-    └── src
-        ├── assignment1.py
-        └── logger.py
-```
-
 ## Resources
 
 To assist you with the assignment, please refer to the following resources:
@@ -111,7 +49,7 @@ For any doubts or clarifications, please refer to the [Piazza forum](https://pia
 
 ## Submission Guidelines
 
-- Use the `assignment1_package_py.sh` script to package your submission.
+- Use the `assignment1_package.sh` script to package your submission.
 - Ensure your code compiles and runs as expected in the provided environment.
 - Submit your assignment through the designated submission portal before the deadline.
 
