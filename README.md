@@ -37,15 +37,15 @@ Your repository follows the structure outlined below:
 
 To assist you with the assignment, please refer to the following resources:
 
-- **Assignment Handout:** [Link](https://docs.google.com/document/d/184DnVFBqZ1siLA_H5KsFBbI3oOa0Trhv0JPWN97Wjm0/edit?usp=sharing)
+- **Assignment Handout:** [Link](https://docs.google.com/document/d/1TcBbtHOqO4g3WU23iRg4vJpFTipphOyv9S9uaGFbafw/edit?usp=sharing)
 - **Assignment Template:** [Link](https://docs.google.com/document/d/1_P_xTPFdgrUYT_EuH6rTsy0YEqgaCghptbis7GxVyaE/edit?usp=sharing)
-- **Assignment Report Template:** [Link](https://docs.google.com/document/d/16XV-6gFnkXeXoumIAj4kjlw10dBsxqKe-A-3N9v0MFY/edit?usp=sharing)
+- **Assignment Report Template:** [Link](https://docs.google.com/document/d/1bv8NHBQW3ndN1_YwRDW4cjKD9xJtgWeiaMyxV6dHWBQ/edit?usp=sharing)
 
 Please ensure you read through the handout thoroughly before starting the assignment to understand the requirements and deliverables.
 
 ## Support
 
-For any doubts or clarifications, please refer to the [Piazza forum](https://piazza.com/class/m05fx9f67l5390) for our course. Make sure to follow the forum for updates and discussions related to the assignment.
+For any doubts or clarifications, please refer to the [Piazza forum](https://piazza.com/class/meszbu3lug95z0) for our course. Make sure to follow the forum for updates and discussions related to the assignment.
 
 ## Submission Guidelines
 
